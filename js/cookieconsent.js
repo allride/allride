@@ -1329,7 +1329,7 @@ cc.initialise({
         useSSL: true,
         disableallsites: true,
         hideprivacysettingstab: true,
-        privacyPolicy: "/informativa-cookies/",
+        privacyPolicy: <a href="index.html">cookies </a>
         clickAnyLinkToConsent: true
     },
     strings: {
