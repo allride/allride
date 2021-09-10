@@ -1322,7 +1322,7 @@ cc.initialise({
         necessary: {}
     },
     settings: {
-        bannerPosition: "bottom",
+        bannerPosition: "top",
         consenttype: "explicit",
         hideallsitebutton: true,
         refreshOnConsent: true,
@@ -1334,7 +1334,7 @@ cc.initialise({
     },
     strings: {
         privacyPolicy: "L'informativa",
-        notificationTitle: "<h3>Questo sito utilizza cookie tecnici e di profilazione anche di terze parti </h3> al fine di inviare messaggi pubblicitari e informativi rispettando le preferenze dell'utente<br /> e le modalità descritte nell'informativa estesa nella quale puoi negare il consenso <br/>al loro utilizzo. Proseguendo la navigazione accetti l'uso dei cookie.",
-        allowCookies: "Accetto"
+        notificationTitle: "<h3> Dear guests</h3> This website uses cookies to improve your experience. We will assume you are ok with this, but you can opt-out if you wish. <br> By continuing to browse, you accept the use of cookies",
+        allowCookies: "Accept"
     }
 });
